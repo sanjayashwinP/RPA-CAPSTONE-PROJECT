@@ -1,4 +1,4 @@
-### Capstone Project - Google Forms Creation and Sending via Gmail and WhatsApp Using UiPath
+## Capstone Project - Google Forms Creation and Sending via Gmail and WhatsApp Using UiPath
 
 **Aim**:  
 To create and automate the process of generating a Google Form and sending the form link through Gmail and WhatsApp using UiPath Studio.
@@ -12,9 +12,9 @@ To create and automate the process of generating a Google Form and sending the f
   - Minimum 2.0 GHz CPU.
   - .NET Framework 4.6.1 or later installed.
 
-### **Procedure**:
+## **Procedure**:
 
-#### 1. **Start a New Project**
+### 1. **Start a New Project**
    (i) Open UiPath Studio.  
    (ii) Under the **New Project** tab, select **Process**.  
    (iii) Enter the project name, e.g., `UiPath Google Form Automation`.  
